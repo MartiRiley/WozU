@@ -1,2 +1,2 @@
 # WozU
-learning to create and clone a repo
+This is a git example file.
